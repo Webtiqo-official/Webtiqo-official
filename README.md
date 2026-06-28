@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sindhu 👋
 
-<!--
-**Webtiqo-official/Webtiqo-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Front-End Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive websites using HTML, CSS ,Bootstrap and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 📂 Featured Project
+
+### Webtiqo
+🔗 Live Demo: https://webtiqo-official.github.io/Webtiqo/
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/bhargavi230chowdary)
+
+⭐ Always learning and building new projects.
